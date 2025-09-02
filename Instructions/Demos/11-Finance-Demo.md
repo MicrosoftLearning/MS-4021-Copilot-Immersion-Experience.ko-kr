@@ -174,3 +174,5 @@ Word의 Copilot을 사용하여 재무 인사이트를 이메일에 요약하여
     - 덜 형식적으로 만들기
 
 1. 완료되면 **유지**를 선택할 수 있습니다.
+
+[인덱스로 돌아가기](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
