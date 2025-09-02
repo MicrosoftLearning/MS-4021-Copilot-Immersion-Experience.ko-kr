@@ -118,3 +118,5 @@ Copilot Chat을 사용하여 제안된 소셜 미디어 캠페인의 효과를 �
     ```text
     How many social media campaign views did we have from September to December?
     ```
+
+[인덱스로 돌아가기](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
