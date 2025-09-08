@@ -25,7 +25,7 @@ Excel의 Copilot을 사용하여 판매 데이터를 분석하고 주요 추세�
 
 1. Excel 시작 및 파일 열기  
 
-1. Excel(브라우저 또는 데스크톱 애플리케이션)에서 **EV_Charger_Sales_Analysis_v1.xlsx**를 엽니다.  
+1. Excel(브라우저 또는 데스크톱 응용 프로그램)에서 **Finance_Sales_Analysis.xlsx**를 엽니다.  
 
 1. **"Sales by Product"** 탭으로 이동합니다.  
 
