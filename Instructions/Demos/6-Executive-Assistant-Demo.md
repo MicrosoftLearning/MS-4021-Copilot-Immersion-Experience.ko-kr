@@ -35,7 +35,7 @@ demo:
 
     ![Word의 Copilot 아이콘](../Demos/Media/Copilot-in-word-ribbon.png)
 
-1. Copilot 창이 열립니다. **이 문서에 대해 무엇이든 질문**이라고 표시된 곳에 다음 프롬프트를 입력합니다.
+1. Copilot 창이 열립니다. 다음 프롬프트에 내용을 입력합니다. **+ Copilot로 어떤 초안을 작성하시겠습니까?**:
 
     ```text
     Summarize the key points from the Microsoft FY24 Second Quarter Earnings Conference Call.
@@ -67,7 +67,6 @@ demo:
 1. Copilot이 분석을 완료하면 **복사** 아이콘을 선택하여 다음 단계를 위해 결과를 저장합니다.
 
     ![결과 복사](../Demos/Media/Copilot-in-word-copy-results.png)
-
 
 ### Copilot Chat
 

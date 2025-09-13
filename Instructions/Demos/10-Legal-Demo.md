@@ -19,9 +19,9 @@ Contoso의 법률 고문은 회사의 AI 이력서 스크리닝 소프트웨어�
 
 ### Copilot Chat
 
-먼저 AI법과 해당 법이 Contoso의 AI 채용 도구에 미치는 잠재적 영향을 조사해 보겠습니다.
+먼저 EU 인공 지능법과 Contoso의 AI 채용 도구에 미치는 잠재적 영향을 조사해 보겠습니다.
 
-1. 브라우저를 열고 [M365copilot.com](https://m365copilot.com/)으로 이동합니다.
+1. 브라우저를 열고 [M365Copilot.com](https://m365Copilot.com/)으로 이동합니다.
 
 1. **웹 모드**가 선택되어 있는지 확인합니다.
 
@@ -55,7 +55,7 @@ Contoso의 법률 고문은 회사의 AI 이력서 스크리닝 소프트웨어�
     Summarize all the information we've discussed into a structured list, ensuring no key details are missed. Then, export the summary to a Word document
     ```
 
-1. 새 Word 문서를 열려면 Copilot이 제공하는 하이퍼링크를 선택합니다.
+1. Copilot이 제공하는 새 Word 문서에 대한 하이퍼링크를 선택하여 열 수 있습니다.
 
 1. 열면 **편집 사용**을 선택한 다음 "자동 저장"을 켭니다. 메시지가 표시되면 OneDrive 계정을 선택합니다.
 
