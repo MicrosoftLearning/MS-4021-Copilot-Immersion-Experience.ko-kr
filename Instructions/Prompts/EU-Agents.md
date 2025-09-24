@@ -50,21 +50,23 @@ Microsoft 365 Copilot 및 Copilot Studio가 간단한 **검색 기반 에이전�
 
 **단계:**  
 
-- Copilot Chat 메뉴에서 **에이전트**를 확장하고 **리서치 도구**를 선택합니다.  
+- Copilot Chat 메뉴에서 **에이전트**를 확장하고 (필요한 경우) **리서치 도구**를 선택합니다.  
 
    ![M365 Copilot 메뉴에서 선택된 리서치 도구를 보여 주는 스크린샷](../Prompts/Media/researcher.png)  
 
 - 다음과 같은 샘플 프롬프트를 사용해 보세요.  
 
    ```text
-   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
+   Explore possible AI solutions to help with [insert productivity issue]. Focus on retrieval-based approaches using Microsoft Copilot or Copilot Studio agents. Summarize two or three ways an agent could help me find, organize, or summarize information more efficiently.
    ```  
 
-    > **팁:** 문서를 빠르게 찾아내거나 여러 소스에서 업데이트를 가져오는 것처럼, 실용적이고 일상적인 활용 사례에 초점을 맞춰 보세요.  
+    > **팁:** 문서를 빠르게 찾아내거나 여러 소스에서 업데이트를 가져오는 것처럼, 실용적이고 일상적인 활용 사례에 초점을 맞춰 보세요.
+  
+    > **참고:** 리서치 도구는 사용자의 요청에 따라 완료하는 데 5~10분(또는 그 이상)이 걸릴 수 있습니다. 응답 내용이 매우 자세하므로 작동하는 동안 Copilot Chat에서 동일한 프롬프트를 실행해 보세요. 두 가지 출력을 비교하면 각 도구가 작업에 어떻게 접근하는지 파악하는 데 큰 도움이 됩니다.
 
 ### 작업 3: 에이전트 빌드 및 테스트  
 
-이제 **Copilot Studio**에서 간단한 검색 에이전트를 만들어 과제를 해결하세요.  
+이제 **Copilot Studio 라이트**에서 간단한 검색 에이전트를 만들어 과제를 해결하세요.  
 
 **단계:**  
 

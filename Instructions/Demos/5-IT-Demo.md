@@ -57,7 +57,7 @@ IT 인프라 관리자는 회사 네트워크에 새 네트워크 보안 제품�
     Please export the project plan to a Word document.
     ```
 
-1. 생성된 Word 문서를 **Project_Implementation_Plan.docx**로 저장합니다. 문서에서 공유 URL을 복사합니다(자동 저장을 사용하도록 설정하고 메시지가 표시되면 OneDrive 계정을 선택합니다).
+1. Copilot가 새로 만든 파일에 제공하는 링크를 선택하여 다운로드 폴더에 다운로드합니다. 파일을 OneDrive 폴더로 이동하고 엽니다. 문서에서 공유 URL을 복사합니다(자동 저장을 사용하도록 설정하고 메시지가 표시되면 OneDrive 계정을 선택합니다).
 
     ![링크 공유](../Demos/Media/share-menu-with-copy-link-9fd1c60a.png)
 
@@ -67,7 +67,7 @@ IT 인프라 관리자는 회사 네트워크에 새 네트워크 보안 제품�
 
 1. 브라우저 또는 데스크톱 응용 프로그램에서 Word를 엽니다.
 
-1. **작성하고 싶은 내용을 설명하세요** 프롬프트 상자에 다음을 입력합니다.
+1. **Copilot로 어떤 초안을 작성하시겠습니까?** 프롬프트 상자에 다음을 입력합니다.
 
     ```text
     Using the Contoso [/CipherGuard Product Specification.docx] and the 'Project Implementation Plan' template provided in [paste in link to Project_Implementation_Plan.docx], draft a comprehensive project implementation plan for deploying Contoso CipherGuard. Ensure the plan aligns with the product specifications and follows the structure outlined in the template.

@@ -35,7 +35,7 @@ Word의 Copilot를 사용하여 자세한 시장 분석 보고서를 작성하�
 
 1. 브라우저 또는 데스크톱 응용 프로그램에서 Word를 엽니다.
 
-1. **작성하고 싶은 내용을 설명하세요** 프롬프트 상자에 다음을 입력합니다.
+1. **Copilot로 어떤 초안을 작성하시겠습니까?** 프롬프트 상자에 다음을 입력합니다.
 
     ```text
     Create a Market Analysis report for Mystic Spice Premium Chai Tea using the attached files. Include the product description, market trend analysis, and a promotion plan for Latin America.
@@ -53,7 +53,7 @@ Word의 Copilot를 사용하여 자세한 시장 분석 보고서를 작성하�
     Draft a new section for social media campaigns to promote Mystic Spice Premium Chai Tea. Include a brief description of 2-3 campaign ideas, each with a unique focus. For each campaign, provide a tagline that reflects its theme and resonates with our target audience of young professionals and tea enthusiasts.
     ```
 
-1. 이 새 문서를 **LATAM_Market_Analysis.docx**로 저장합니다.
+1. Copilot 창에서 유지를 선택하여 문서를 Copilot 초안에서 실제 Word 문서로 변경합니다. 이 새 문서를 **LATAM_Market_Analysis.docx**로 저장합니다.
 
 ### Copilot Chat
 
@@ -97,7 +97,7 @@ Copilot Chat을 사용하여 제안된 소셜 미디어 캠페인의 효과를 �
 
 ### Excel의 Copilot
 
-1. [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx)를 다운로드했는지 확인하고 웹 또는 데스크톱 응용 프로그램에서 Excel로 문서를 엽니다.
+1. [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx)를 다운로드했는지 확인하고 웹 또는 데스크톱 애플리케이션에서 Excel로 문서를 엽니다.
 
 1. 리본에서 **Copilot**을 선택하여 Copilot 창을 엽니다.
 
