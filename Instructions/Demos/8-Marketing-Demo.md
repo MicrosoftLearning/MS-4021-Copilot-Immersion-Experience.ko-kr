@@ -99,7 +99,7 @@ Copilot Chat을 사용하여 제안된 소셜 미디어 캠페인의 효과를 �
 
 1. [Contoso_Chai_Tea_market_trends_2023.xlsx](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/master/Contoso_Chai_Tea_market_trends_2023.xlsx)를 다운로드했는지 확인하고 웹 또는 데스크톱 애플리케이션에서 Excel로 문서를 엽니다.
 
-1. 리본에서 **Copilot**을 선택하여 Copilot 창을 엽니다.
+1. Excel 리본에서 **Copilot**을 선택한 다음, **앱 기술**을 선택하여 Copilot 창을 엽니다.
 
 1. Excel에 다음 프롬프트를 입력합니다.
 
