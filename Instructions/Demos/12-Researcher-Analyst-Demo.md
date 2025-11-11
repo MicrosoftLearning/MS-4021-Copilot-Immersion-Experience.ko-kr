@@ -7,21 +7,21 @@ demo:
 
 # 리서치 도구 및 분석 도구 데모
 
-이 데모에서는 Copilot 앱에 기본 제공되는 두 명의 전문가 에이전트인 **리서치 도구** 및 **분석 도구**를 사용하는 방법을 강조 표시합니다.  
+이 데모에서는 Copilot 앱에 기본 제공되는 두 명의 전문가 에이전트인**리서치 도구** 및**분석 도구**를 사용하는 방법을 강조 표시합니다.  
 
 - **리서치 도구**는 웹 데이터를 회사의 파일 및 기술 자료와 결합하여 여러 단계의 연구 작업을 처리할 수 있도록 도움을 줍니다.  
 - **분석 도구**는 숙련된 데이터 과학자처럼 사고하며, 코드를 모르더라도 고급 데이터 분석과 Python 실행을 수행할 수 있습니다.  
 
 ## 데모 설정
 
-이러한 데모를 완료하려면, 모든 필수 파일과 리소스를 포함한 [리서치 도구 및 분석 도구 데모 - 콘텐츠 팩](https://microsoft.sharepoint.com/:u:/r/teams/MTTCentral/Immersion%20Experience%20Source%20Control/MS-4021%20Copilot%20Immersion%20Experience/Demos/Agent%20Demo%20Sample%20Docs/Researcher%20and%20Analyst%20Demo%20-%20Content%20Pack.zip?csf=1&web=1&e=384sFW)을 다운로드해야 합니다.  
+이러한 데모를 완료하려면, 모든 필수 파일과 리소스를 포함한[리서치 도구 및 분석 도구 데모 - 콘텐츠 팩](https://github.com/MicrosoftLearning/MS-4021-Copilot-Immersion-Experience/raw/refs/heads/master/ResourceFiles/Researcher_and_Analyst_Demo_Content_Pack.zip)을 다운로드해야 합니다.  
 
-> **팁:** 데모를 진행하기 전에 데모 환경에 SharePoint 사이트를 만들어 쉽게 액세스할 수 있도록 모든 파일을 저장합니다. 또는 파일을 로컬에 저장한 다음, **/** 를 사용하여 프롬프트에서 직접 참조할 수도 있습니다.  
+> **팁:** 데모를 진행하기 전에 데모 환경에 SharePoint 사이트를 만들어 쉽게 액세스할 수 있도록 모든 파일을 저장합니다. 또는 파일을 로컬에 저장한 다음,**/** 를 사용하여 프롬프트에서 직접 참조할 수도 있습니다.  
 
 이러한 에이전트에 액세스하려면 다음을 수행합니다.  
 
-- [m365.cloud.microsoft](https://m365.cloud.microsoft)에서 **Copilot 앱**을 엽니다.  
-- 탐색 창에서 **리서치 도구** 또는 **분석 도구**를 선택하세요.  
+- [m365.cloud.microsoft](https://m365.cloud.microsoft)에서**Copilot 앱**을 엽니다.  
+- 탐색 창에서**리서치 도구** 또는**분석 도구**를 선택하세요.  
 
 > **참고:** 신뢰할 수 있는 인사이트를 얻기 위해 리서치 도구 및 분석 도구를 내부 파일(SharePoint/OneDrive)과 연결해야 합니다.
 
@@ -42,7 +42,7 @@ demo:
 
 > **중요:** 리서치 도구가 첫 번째 프롬프트를 완료할 수 있도록 충분한 시간을 제공하기 위해, 1~4단계는 반드시 학습 시작 시점(슬라이드 5에 표시된 대로)에 완료해야 합니다.
 
-1. 탐색 창에서 **리서치 도구**를 엽니다.  
+1. 탐색 창에서**리서치 도구**를 엽니다.  
 
     ![M365 Copilot 메뉴에서 선택된 리서치 도구를 보여 주는 스크린샷](../Prompts/Media/researcher.png)  
 
@@ -58,7 +58,7 @@ demo:
 1. `/`를 사용하여 참조 파일을 첨부합니다(SharePoint/OneDrive를 가리킴).  
 
    - **/SprintCycle Charger Product Launch.docx**  
-   - *(선택 사항)* **/Contoso - PedalPerks GTM Plan.docx**  
+   - *(선택 사항)***/Contoso - PedalPerks GTM Plan.docx**  
 
 1. **제출**을 선택합니다.  
 
@@ -72,9 +72,9 @@ demo:
 
 ### 분석 도구: 고객 구분 및 재무 모델링
 
-**참고:** 이 데모는 콘텐츠의 Executive 버전에 대해 수행되지 않고 대신 Copilot 스튜디오** 데모로 **이동합니다.
+**참고:** 이 데모는 콘텐츠의 Executive 버전에 대해 수행되지 않고 대신 Copilot 스튜디오** 데모로**이동합니다.
 
-1. 탐색 창에서 **분석 도구**를 엽니다.
+1. 탐색 창에서**분석 도구**를 엽니다.
 
     ![M365 Copilot 메뉴에서 선택된 분석 도구를 보여 주는 스크린샷](../Prompts/Media/analyst.png)  
 
@@ -101,7 +101,7 @@ demo:
 
 ### 추가 분석 도구 시나리오
 
-다양성을 위해 이러한 추가 프롬프트를 실행할 수 있습니다. 각 시나리오는 동일한 패턴을 따릅니다. **프롬프트 → 파일 첨부 → 제출 → 결과 검토**
+다양성을 위해 이러한 추가 프롬프트를 실행할 수 있습니다. 각 시나리오는 동일한 패턴을 따릅니다.**프롬프트 → 파일 첨부 → 제출 → 결과 검토**
 
 - **재무 예측**  
 
@@ -109,7 +109,7 @@ demo:
     Build a 5-year financial projection from this data along with a graph to view revenue growth over time.
     ```  
 
-    파일: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    파일:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **영업 실적**  
 
@@ -118,7 +118,7 @@ demo:
     along with a visualization of the best-selling products.
     ```  
 
-    파일: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    파일:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 - **캠페인 성과**  
 
@@ -127,13 +127,13 @@ demo:
     and help me decide where to re-target our next campaign.
     ```  
 
-    파일: **BoulderEV ebike Internal Market Forecast.xlsx**  
+    파일:**BoulderEV ebike Internal Market Forecast.xlsx**  
 
 ## 주요 요점
 
 - **리서치 도구**: 고품질 리서치를 통해 전략과 계획을 가속화합니다.  
 - **분석 도구**: 고급 분석 및 시각화를 통해 데이터 기반 인사이트를 제공합니다.  
 
-리서치 도구와 분석 도구를 함께 사용하면 **질문에서 인사이트까지**의 경로를 단축하여 몇 주가 걸리는 노력을 몇 분 만에 끝낼 수 있습니다.  
+리서치 도구와 분석 도구를 함께 사용하면**질문에서 인사이트까지**의 경로를 단축하여 몇 주가 걸리는 노력을 몇 분 만에 끝낼 수 있습니다.  
 
 [인덱스로 돌아가기](https://microsoftlearning.github.io/MS-4021-Copilot-Immersion-Experience/)
